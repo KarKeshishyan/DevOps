@@ -1,2 +1,4 @@
 #Git-i masin haves infoner
 git status
+git init
+git 
